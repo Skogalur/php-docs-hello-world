@@ -1,4 +1,4 @@
 <?php
 
-echo "Hello World!\nJust a little test.";
+echo "Hello World!<br>Just a little test.";
 ?>
